@@ -55,10 +55,11 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-**Please follow the steps below to setup this project in your local computer
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-A basic understanding of Ruby and Git
+In order to run this project you need:
+  * A basic understanding of Ruby and Git
 ### Usage
 1. Install Ruby
 2. Clone this repo 
