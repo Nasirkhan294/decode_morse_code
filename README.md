@@ -65,9 +65,11 @@ A basic understanding of Ruby and Git
 ```
 git clone git@github.com:Nasirkhan294/basic_ruby.git
 ```
-3. Inside the `morseDecoder.rb` file there is a method `decode_message`. Pass your morse code as a parameter in this method like so: `decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')`
+3. Inside the `morseDecoder.rb` file there is a method `decode_message`. Pass your morse code as a parameter in this method like so: 
+```
+decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
 
-
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
