@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3>Basic Ruby</h3>
+  <h3>Decode Morse Code</h3>
 
 </div>
 
@@ -26,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Basic Ruby <a name="about-project"></a>
+# 📖 Decode Morse Code <a name="about-project"></a>
 
-**Basic Ruby:** Basic ruby is a simple ruby project that decode the morose code.
+**Decode Morse Code:** Decode Morse Code is a simple ruby project that decode the morse code.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,9 +78,9 @@ decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -..
 
 👤 **Nasirkhan294**
 
-- GitHub: [Github](https://github.com/Nasirkhan294)
-- Twitter: [Twitter](https://twitter.com/NasirMa35888225)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nasirmahd-8a8/)
+- GitHub: [Nasirkhan294](https://github.com/Nasirkhan294)
+- Twitter: [NasirMa35888225](https://twitter.com/NasirMa35888225)
+- LinkedIn: [nasirmahd](https://www.linkedin.com/in/nasirmahd/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
