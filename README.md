@@ -66,7 +66,7 @@ In order to run this project you need:
 ```
 git clone git@github.com:Nasirkhan294/basic_ruby.git
 ```
-3. Inside the `morseDecoder.rb` file there is a method `decode_message`. Pass your morse code as a parameter in this method like so: 
+3. Inside the `morse_decoder.rb` file there is a method `decode_message`. Pass your morse code as a parameter in this method like so: 
 ```
 decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
 
